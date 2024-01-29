@@ -1,4 +1,12 @@
 # Learning_NodeJS_ExpressJS_MySQL_Sequelize
+# Getting Started:
+To start app, run the following command
+'npm install'
+
+Open up browser and type 'http://localhost:3000/'
+
+# Notes:
+The following information was documented throughout so that similar start could be mimicked.
 ## Definitions:
 - **Node.js**
   - a runtime environment for building server-side and networking applications
