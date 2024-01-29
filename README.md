@@ -1,7 +1,7 @@
 # Learning_NodeJS_ExpressJS_MySQL_Sequelize
 # Getting Started:
 To start app, run the following command
-'npm install'
+```npm install```
 
 Open up browser and type 'http://localhost:3000/'
 
