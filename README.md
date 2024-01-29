@@ -23,11 +23,11 @@ The following information was documented throughout so that similar start could 
 
 ## Initial Setup of a express application
 1. Create a npm project and install Express.js (nodemon if you want)
-    - run npm init to initialize npm project and get package.json file
-    - run npm install --save-dev nodemon to get nodemon package
-    - run npm install express
-    - run npm install body-parser
-    - run npm install ejs
+    - run ```npm init``` to initialize npm project and get package.json file
+    - run ```npm install --save-dev nodemon``` to get nodemon package
+    - run ```npm install express```
+    - run ```npm install body-parser```
+    - run ```npm install ejs```
 
     Once all dependenices have been installed, update 'start' script in package.json file
         "start": "nodemon app.js"
